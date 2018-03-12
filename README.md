@@ -6,9 +6,6 @@ LICENSE
 --------------------
 GPL
 
-CONTACT
---------------------
-You can contact us at http://www.swjtuosc.net/ 
 
 Requirements
 --------------------
